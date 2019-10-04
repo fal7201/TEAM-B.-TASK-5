@@ -1,6 +1,6 @@
 # TEAM-B.-TASK-5
 The Machine learning task 4
-the task is to find movie similarities based on their plots summaries
+The task is to "find movie similarities based on their plots summaries"
 
 To all movie enthusiast out there the aim of this model is to be able to recommend a movie with similar plots to the one you have in mind. obviously we all have a particular genre of movie we would like to watch be it sci-fi, horror, romance and the likes
 And more often than not there is usally a common factor so to say in these similar movies which can be seen in their plots.
@@ -45,5 +45,6 @@ DENOGRAM
 
 Basically a dendrogram or tree diagram allows to illustrate the hierarchical organisation of several entities. Nothing much just a fancy name is just like your regular family tree in term of the structure.
 
+Everthing above has been combined into creating a model which finds similar movie based on their plots summaries
 
-All the explanations above and the definition of terms is just to ease understanding of anyone reading the code.
+The explanations above and the definition of terms is just to ease understanding of anyone reading the code.
