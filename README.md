@@ -2,14 +2,14 @@
 The Machine learning task 4
 the task is to find movie similarities based on their plots summaries
 
-To all movie enthusasts out there the aim of this model is to be able to recommend a movie with similar plots to the one you have in mind. obviously we all have a particular genre of movie we would like to watch be it sci-fi, horror, romance and the likes
+To all movie enthusiast out there the aim of this model is to be able to recommend a movie with similar plots to the one you have in mind. obviously we all have a particular genre of movie we would like to watch be it sci-fi, horror, romance and the likes
 And more often than not there is usally a common factor so to say in these similar movies which can be seen in their plots.
 
 People who are just interested in just the movies can skip this part. But you are welcome to learn
 
 THE TECHNICAL PART
 
-Something called Tokenization was used; so in lame man terms it is basically the splitting of a larger body of text into smaller lines
+Something called Tokenization was used; so in layman's terms it is basically the splitting of a larger body of text into smaller lines
 to do this NLTK is used which stands for "Natural Language Toolkit" 
 which is a platform used for building Python programs that work with human language data for applying in statistical natural language processing (NLP). 
 It contains text processing libraries for tokenization, parsing, classification, stemming, tagging and semantic reasoning.
